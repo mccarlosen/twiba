@@ -20,3 +20,7 @@ Get into twiba directory and install dependencies
 
 `npm start`
 
+## Dependencies
+
+Twiba [npm directory](https://www.npmjs.com/package/twiba)
+
