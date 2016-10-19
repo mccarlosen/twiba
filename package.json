@@ -1,0 +1,18 @@
+{
+  "name": "analysis-twitter",
+  "version": "1.0.0",
+  "description": "Analysis of Twitter Account",
+  "main": "test1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Analysis",
+    "Twitter"
+  ],
+  "author": "Carlos Meneses <osen.10112@gmail.com> (http://twiba.nl)",
+  "license": "ISC",
+  "dependencies": {
+    "twiba": "^3.0.8"
+  }
+}
